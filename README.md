@@ -6,7 +6,7 @@ I’m a Software Engineer. Currently I'm working as a Web Developer at Lampp-it 
 
 🌎 Front-end Web with Reactjs  
 📡 Back-end with Nodejs  
-🛠️ Typescript  
+🛠️ Typescript, Javascript, HTML, CSS
 🧰 And more...
 
 #### 💬 Find me elsewhere
