@@ -5,14 +5,14 @@
 ### My current tools
 
 <div >
-  <img height="25em" style="vertical-align: middle" src="assets/img/software.png"> Software Developer </br>
-  <img height="25em" style="vertical-align: middle" src="assets/img/backend.png"> Back-end with .NET and Nodejs </br>
-  <img height="25em" style="vertical-align: middle" src="assets/img/frontend.png"> Front-end Web with Reactjs </br>
-  <img height="25em" style="vertical-align: middle" src="assets/img/settings.png"> Typescript, Javascript, TailwindCSS, HTML, CSS </br>
-  <img height="25em" style="vertical-align: middle" src="assets/img/more.png"> And more... </br>
+  <img height="25em" align="center" src="assets/img/software.png"> Software Developer </br>
+  <img height="25em" align="center" src="assets/img/backend.png"> Back-end with .NET and Nodejs </br>
+  <img height="25em" align="center" src="assets/img/frontend.png"> Front-end Web with Reactjs </br>
+  <img height="25em" align="center" src="assets/img/settings.png"> Typescript, Javascript, TailwindCSS, HTML, CSS </br>
+  <img height="25em" align="center" src="assets/img/more.png"> And more... </br>
 </div>
 
- <div>
+ <div><br>
   <a href="https://github.com/oseiassaboia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oseiassaboia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseiassaboia&layout=compact&langs_count=7&theme=radical"/>
