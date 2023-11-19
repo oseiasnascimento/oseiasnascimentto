@@ -4,19 +4,22 @@
 
 ### My current tools
 
-<img height="25em" vertical-align="middle" src="assets/img/software.png"> Software Developer </br>
-<img height="25em" vertical-align="middle" src="assets/img/backend.png"> Back-end with .NET and Nodejs </br>
-<img height="25em" vertical-align="middle" src="assets/img/frontend.png"> Front-end Web with Reactjs </br>
-<img height="25em" vertical-align="middle" src="assets/img/settings.png"> Typescript, Javascript, TailwindCSS, HTML, CSS </br>
-<img height="25em" vertical-align="middle" src="assets/img/more.png"> And more...
+<div >
+  <img height="25em" src="assets/img/software.png"> Software Developer </br>
+  <img height="25em" src="assets/img/backend.png"> Back-end with .NET and Nodejs </br>
+  <img height="25em" src="assets/img/frontend.png"> Front-end Web with Reactjs </br>
+  <img height="25em" src="assets/img/settings.png"> Typescript, Javascript, TailwindCSS, HTML, CSS </br>
+  <img height="25em" src="assets/img/more.png"> And more...
+</div>
 
  <div>
-  <a href="https://github.com/gabrielmelogm">
+  <a href="https://github.com/oseiassaboia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oseiassaboia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseiassaboia&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ##
+
 
 <div> 
   <a href="https://instagram.com/oseiasnascimentto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
