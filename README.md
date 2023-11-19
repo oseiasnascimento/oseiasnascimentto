@@ -1,14 +1,14 @@
 # Hi, I'm Oseias Saboia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-## I’m a Software Engineer. Currently I'm working as a Web Developer at Lampp-it Solutions <a href="https://www.linkedin.com/company/lampp-it-solutions/mycompany/" target="_blank">**LAMPP-IT Solutions**</a>.
+### I’m a Software Engineer. Currently I'm working as a Web Developer at Lampp-it Solutions <a href="https://www.linkedin.com/company/lampp-it-solutions/mycompany/" target="_blank">**LAMPP-IT Solutions**</a>.
 
 ### My current tools
 
-<img height="20em" src="assets/img/software.png"> Software Developer </br>
-<img height="20em" src="assets/img/backend.png"> Back-end with .NET and Nodejs </br>
-<img height="20em" src="assets/img/frontend.png"> Front-end Web with Reactjs </br>
-<img height="20em" src="assets/img/settings.png"> Typescript, Javascript, TailwindCSS, HTML, CSS </br>
-<img height="20em" src="assets/img/more.png"> And more...
+### <img height="20em" src="assets/img/software.png"> Software Developer </br>
+### <img height="20em" src="assets/img/backend.png"> Back-end with .NET and Nodejs </br>
+### <img height="20em" src="assets/img/frontend.png"> Front-end Web with Reactjs </br>
+### <img height="20em" src="assets/img/settings.png"> Typescript, Javascript, TailwindCSS, HTML, CSS </br>
+### <img height="20em" src="assets/img/more.png"> And more...
 
  <div>
   <a href="https://github.com/gabrielmelogm">
