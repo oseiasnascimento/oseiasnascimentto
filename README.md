@@ -5,11 +5,11 @@
 ### My current tools
 
 <div >
-  <img height="25em" src="assets/img/software.png"> Software Developer </br>
-  <img height="25em" src="assets/img/backend.png"> Back-end with .NET and Nodejs </br>
-  <img height="25em" src="assets/img/frontend.png"> Front-end Web with Reactjs </br>
-  <img height="25em" src="assets/img/settings.png"> Typescript, Javascript, TailwindCSS, HTML, CSS </br>
-  <img height="25em" src="assets/img/more.png"> And more...
+  <img height="25em" style="vertical-align: middle" src="assets/img/software.png"> Software Developer </br>
+  <img height="25em" style="vertical-align: middle" src="assets/img/backend.png"> Back-end with .NET and Nodejs </br>
+  <img height="25em" style="vertical-align: middle" src="assets/img/frontend.png"> Front-end Web with Reactjs </br>
+  <img height="25em" style="vertical-align: middle" src="assets/img/settings.png"> Typescript, Javascript, TailwindCSS, HTML, CSS </br>
+  <img height="25em" style="vertical-align: middle" src="assets/img/more.png"> And more... </br>
 </div>
 
  <div>
@@ -20,9 +20,8 @@
 
 ##
 
-
 <div> 
   <a href="https://instagram.com/oseiasnascimentto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:oseiassaboia2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/oseiassaboias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/oseiasnascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
