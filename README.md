@@ -1,12 +1,12 @@
 # Hi, I'm Oseias Saboia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Software Engineer. Currently I'm working as a Web Developer at Lampp-it Solutions [**LAMPP-IT Solutions**](https://www.linkedin.com/company/lampp-it-solutions/mycompany/).
+## I’m a Software Engineer. Currently I'm working as a Web Developer at Lampp-it Solutions <a href="https://www.linkedin.com/company/lampp-it-solutions/mycompany/" target="_blank">**LAMPP-IT Solutions**</a>.
 
-#### My current tools
+### My current tools
 
 <img height="20em" src="assets/img/software.png"> Software Developer </br>
 <img height="20em" src="assets/img/backend.png"> Back-end with .NET and Nodejs </br>
-<img height="20em" src="assets/img/frontend.png"> Front-end Web with Reactjs  </br>
+<img height="20em" src="assets/img/frontend.png"> Front-end Web with Reactjs </br>
 <img height="20em" src="assets/img/settings.png"> Typescript, Javascript, TailwindCSS, HTML, CSS </br>
 <img height="20em" src="assets/img/more.png"> And more...
 
@@ -16,7 +16,10 @@ I’m a Software Engineer. Currently I'm working as a Web Developer at Lampp-it 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseiassaboia&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-#### 💬 Find me elsewhere
+##
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oseias-saboia-nascimento/)](https://www.linkedin.com/in/oseias-saboia-nascimento/)
-[![Gmail Badge](https://img.shields.io/badge/-oseiassaboia2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oseiassaboia2@gmail.com)](mailto:oseiassaboia2@gmail.com)
+<div> 
+  <a href="https://instagram.com/oseiasnascimentto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:oseiassaboia2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/oseiassaboias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
