@@ -4,11 +4,11 @@ I’m a Software Engineer. Currently I'm working as a Web Developer at Lampp-it 
 
 #### My current tools
 
-<img src="assets/img/software.png"> Software Developer
-<img src="assets/img/backend.png"> Back-end with .NET and Nodejs
-<img src="assets/img/frontend.png"> Front-end Web with Reactjs  
-<img src="assets/img/settings.png"> Typescript, Javascript, TailwindCSS, HTML, CSS
-<img src="assets/img/more.png"> And more...
+<img height="20em" src="assets/img/software.png"> Software Developer
+<img height="20em" src="assets/img/backend.png"> Back-end with .NET and Nodejs
+<img height="20em" src="assets/img/frontend.png"> Front-end Web with Reactjs  
+<img height="20em" src="assets/img/settings.png"> Typescript, Javascript, TailwindCSS, HTML, CSS
+<img height="20em" src="assets/img/more.png"> And more...
 
  <div>
   <a href="https://github.com/gabrielmelogm">
