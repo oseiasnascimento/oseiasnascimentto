@@ -4,10 +4,10 @@
 
 ### My current tools
 
-### <img height="20em" src="assets/img/software.png"> Software Developer </br>
-### <img height="20em" src="assets/img/backend.png"> Back-end with .NET and Nodejs </br>
-### <img height="20em" src="assets/img/frontend.png"> Front-end Web with Reactjs </br>
-### <img height="20em" src="assets/img/settings.png"> Typescript, Javascript, TailwindCSS, HTML, CSS </br>
+### <img height="20em" src="assets/img/software.png"> Software Developer 
+### <img height="20em" src="assets/img/backend.png"> Back-end with .NET and Nodejs 
+### <img height="20em" src="assets/img/frontend.png"> Front-end Web with Reactjs 
+### <img height="20em" src="assets/img/settings.png"> Typescript, Javascript, TailwindCSS, HTML, CSS
 ### <img height="20em" src="assets/img/more.png"> And more...
 
  <div>
